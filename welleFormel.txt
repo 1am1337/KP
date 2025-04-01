@@ -1,0 +1,1 @@
+f(t) = A * sin(2 * pi * f * t + Phase) + Verschiebung

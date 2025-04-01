@@ -1,0 +1,6 @@
+14.11
+Theory and Practice with Max/MSP Cipriani & Giri
+
+Max ToolBox
+
+2^(1/12)*440 => ein halbton höher => 2^(100/1200)*440

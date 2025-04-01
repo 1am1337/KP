@@ -1,0 +1,4 @@
+streich quartett erzeugen
+-> cello, viola, violine 1, violine 2
+-> jedes instrument sollte ca 25s melodie spielen
+--> überleitung von melodien durch gemeinsames spielen
