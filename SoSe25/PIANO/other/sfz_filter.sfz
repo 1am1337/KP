@@ -1,0 +1,18 @@
+//------------------------------------------------------------------------------
+// A basic sfz template
+//------------------------------------------------------------------------------
+
+<control> default_path= ../media/
+label=_cc33= filter cutoff
+
+<global> 
+loop_mode=one_shot
+cutoff=250
+cutoff_cc33=1200
+resonance=0
+
+<region>key= 1 sample=S_1.mp3
+<region>key= 2 sample=S_2.mp3
+<region>key= 3 sample=S_3.mp3
+<region>key= 4 sample=S_4.mp3
+

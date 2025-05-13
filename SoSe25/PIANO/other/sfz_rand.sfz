@@ -1,0 +1,12 @@
+//------------------------------------------------------------------------------
+// A basic sfz template
+//------------------------------------------------------------------------------
+
+<control> default_path= ../media/
+<global> loop_mode=one_shot
+
+<group> key= 1
+<region>hirand= 0.33 sample=S_1.mp3
+<region>lorand = 0.34 hirand= 0.66 sample=S_2.mp3
+<region>hirand= 0.67 sample=S_3.mp3
+

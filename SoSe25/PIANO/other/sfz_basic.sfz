@@ -1,0 +1,11 @@
+//------------------------------------------------------------------------------
+// A basic sfz template
+//------------------------------------------------------------------------------
+
+<control> default_path= ../media/
+<global> loop_mode=one_shot
+
+<region> sample= S_1.mp3 key= 1
+<region> sample= S_2.mp3 key= 2
+<region> sample= S_3.mp3 key= 3
+<region> sample= S_4.mp3 key= 4
